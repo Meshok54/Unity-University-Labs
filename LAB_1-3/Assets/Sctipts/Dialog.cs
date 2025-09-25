@@ -15,15 +15,4 @@ public class Dialog : MonoBehaviour
             Debug.Log("Stolknulsya so stenoi i stena razrushilas");
         }
     }
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
